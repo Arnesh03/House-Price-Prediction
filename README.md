@@ -38,3 +38,32 @@ House price prediction is a vast topic, which is implemented through a variety o
 In proposed model of Machine Learning, the dataset is divided into two parts: Training and Testing. 80% of data is used for training purpose and 20% used for testing purpose. The training set include target variable. The model is trained by using various machine learning algorithms, out of which Random forest regressions predict better results. For implementing the Algorithms, they have used Python Libraries NumPy and Pandas.
 In another paper based on Machine Learning has used the multivariate linear regression model to perform the prediction. Also, it is compared with other Machine Learning models like Lasso, LassoCV, Ridge, RidgeCV and decision tree regressor. Multivariate linear regression and LassoCV performs the best with 84.5% accuracy.
 Our model is works on decision tree regression (XGBoost Regression) .
+
+**Libraries Used for this Project include –**
+ 
+ 1)Pandas
+ 
+ 2)NumPy
+ 
+ 3)Matplotlib
+ 
+ 4)Seaborn
+ 
+ 5)Scikit Learn
+ 
+ 6)XG Boost
+ 
+ 
+ 
+ ## Model Used 
+ 
+  **XG Boost Regressor Model**
+  
+• XG Boost stands for eXtreme Gradient Boosting.
+
+• The XG Boost library implements the gradient boosting decision tree algorithm.
+
+• Boosting is an ensemble technique where new models are added to correct the errors made by existing models.
+
+Models are added sequentially until no further improvements can be .
+
